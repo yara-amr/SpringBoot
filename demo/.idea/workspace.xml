@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6d8f560-d3e6-4b62-b5a5-f909903c4190" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CalculatorApp/.idea/CalculatorApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/demo/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/demo/ChairResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/demo/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dsktop tmp/readwriteGrpPrjct tmppppp/readwriteGrpPrjct.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dsktop tmp/readwriteGrpPrjct/readwriteGrpPrjct.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dsktop tmp/sba7ooooooooooooo/readwriteGrpPrjct/readwriteGrpPrjct.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dsktop tmp/text-summarizing-main/text-summarizing-main/projectBank1/projectBank1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dsktop tmp/text-summarizing-main/text-summarizing-main/projectBank2/projectBank2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dsktop tmp/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dsktop tmp/untitled/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventorychairs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventorychairs/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventorychairs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventorychairs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventorychairs/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventorychairs/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventorychairs/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventorychairs/META-INF/application.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventorychairs/META-INF/jboss-app.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventorychairs/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventorychairs/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventorychairs/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventorychairs/src/main/java/org/example/inventorychairs/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventorychairs/src/main/java/org/example/inventorychairs/ChairResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventorychairs/src/main/java/org/example/inventorychairs/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventorychairs/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newday/newday.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newtaskm5zn - Copy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newtaskm5zn - Copy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newtaskm5zn - Copy/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newtaskm5zn - Copy/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newtaskm5zn - Copy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newtaskm5zn - Copy/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newtaskm5zn - Copy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newtaskm5zn - Copy/src/main/java/com/mycompany/newtaskm5zn/ChairResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newtaskm5zn - Copy/src/main/java/com/mycompany/newtaskm5zn/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postman yehia ex/new postman/postmandemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postman yehia ex/new postman/postmandemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postman yehia ex/new postman/postmandemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postman yehia ex/new postman/postmandemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postman yehia ex/new postman/postmandemo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postman yehia ex/new postman/postmandemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postman yehia ex/new postman/postmandemo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postman yehia ex/new postman/postmandemo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postman yehia ex/new postman/postmandemo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postman yehia ex/new postman/postmandemo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postman yehia ex/new postman/postmandemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postman yehia ex/new postman/postmandemo/src/main/java/com/example/postmandemo/Meal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postman yehia ex/new postman/postmandemo/src/main/java/com/example/postmandemo/Mealsresource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postman yehia ex/new postman/postmandemo/src/main/java/com/example/postmandemo/Mealssubresource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postman yehia ex/new postman/postmandemo/src/main/java/com/example/postmandemo/Newmealservlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postman yehia ex/new postman/postmandemo/src/main/java/com/example/postmandemo/ShuffleMealServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postman yehia ex/new postman/postmandemo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postman yehia ex/new postman/postmandemo/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../New folder/WebsiteEBI" beforeDir="false" afterPath="$PROJECT_DIR$/../New folder/WebsiteEBI" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebsiteProject/Login/Login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebsiteProject/Login/backgroundLogin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebsiteProject/Login/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dailyTasksEBI" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html_login_form/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html_login_form/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2eaePf5BXsGwic3DsJr5e6CDG3v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JBoss/WildFly Server.JBoss/WildFly 30.0.0.Final.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/bm/Desktop/postman yehia ex/new postman/postmandemo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bm\Desktop\demo\src\main\java\org\example\demo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JBoss/WildFly 30.0.0.Final" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss/WildFly 30.0.0.Final" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="SERVER" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" />
+        <option name="USERNAME" value="" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52332" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6d8f560-d3e6-4b62-b5a5-f909903c4190" name="Changes" comment="" />
+      <created>1712147095503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712147095503</updated>
+      <workItem from="1712147096543" duration="1114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

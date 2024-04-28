@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mvc:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7facb516-3703-4c98-bfda-d77735c5ace0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/src/main/java/org/example/demo/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/src/main/java/org/example/demo/ChairResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/src/main/java/org/example/demo/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mon15-04/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mon15-04/src/main/java/XML/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mon15-04/src/main/java/XML/FootballCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mon15-04/src/main/java/XML/FortunateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mon15-04/src/main/java/XML/HappyFortune.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mon15-04/src/main/java/XML/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mon15-04/src/main/java/XML/SadFortune.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mon15-04/src/main/java/XML/SwimmingCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mon15-04/src/main/java/XML/TennisCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mon15-04/src/main/resources/file.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mon15-04/src/main/resources/values.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../previous/CalculatorApp/.idea/CalculatorApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../previous/dsktop tmp/eclipse-jee-2023-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_1.1.4.202311211923/node_modules/iconv-lite/.idea/iconv-lite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../previous/dsktop tmp/readwriteGrpPrjct tmppppp/readwriteGrpPrjct.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../previous/dsktop tmp/readwriteGrpPrjct/readwriteGrpPrjct.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../previous/dsktop tmp/sba7ooooooooooooo/readwriteGrpPrjct/readwriteGrpPrjct.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../previous/dsktop tmp/text-summarizing-main/text-summarizing-main/projectBank1/projectBank1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../previous/dsktop tmp/text-summarizing-main/text-summarizing-main/projectBank2/projectBank2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../previous/dsktop tmp/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../previous/dsktop tmp/untitled/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../previous/newday/newday.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Controllers/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-mvc-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_Core/src/main/webapp/WEB-INF/spring-mvc-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_Core/src/main/webapp/WEB-INF/view/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_Core/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/src/main/java/Entinies/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/src/main/java/Entinies/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/src/main/java/Entinies/InstructorDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/src/main/java/Entinies/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/src/main/java/Entinies/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/src/main/java/Hibernate/MainDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/src/main/java/Hibernate/MainInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/src/main/java/Hibernate/MainSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/src/main/java/Hibernate/MainUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/src/main/java/Relations/Main1to1Bi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/src/main/java/Relations/Main1to1Uni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/src/main/java/Relations/Main1toMany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/src/main/java/Relations/MainManyto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/src/main/java/Relations/MainManytoMany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/Hibernate/src/main/resources/file.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/JavaCode/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/JavaCode/src/main/java/JavaCode/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/JavaCode/src/main/java/JavaCode/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/JavaCode/src/main/java/JavaCode/FootballCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/JavaCode/src/main/java/JavaCode/FortunateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/JavaCode/src/main/java/JavaCode/HappyFortune.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/JavaCode/src/main/java/JavaCode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/JavaCode/src/main/java/JavaCode/SadFortune.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/JavaCode/src/main/java/JavaCode/SwimmingCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tues16-04/JavaCode/src/main/resources/values.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../New folder/WebsiteEBI" beforeDir="false" afterPath="$PROJECT_DIR$/../../New folder/WebsiteEBI" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebsiteProject/Login/Login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebsiteProject/Login/backgroundLogin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebsiteProject/Login/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dailyTasksEBI" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../html_login_form/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../html_login_form/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2fOqWNKleDzGv9aI3aRjEVdrJow" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;GlassFish Server.GlassFish 5.1.0.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bm/Desktop/thurs18-04/mvc/src/main/webapp/WEB-INF&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bm\Desktop\thurs18-04\mvc\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GlassFish 5.1.0" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 5.1.0" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="$PROJECT_DIR$/../../../../../Program Files/Java/jdk1.8.0_202" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="mvc:war">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="DOMAIN" value="domain1" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="GlassFish" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mvc:war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+        <option value="jdk-11.0.21-corretto-11.0.21-4caba194b151-9f4ef98c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7facb516-3703-4c98-bfda-d77735c5ace0" name="Changes" comment="" />
+      <created>1713682504772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713682504772</updated>
+      <workItem from="1713682505785" duration="1196000" />
+      <workItem from="1713683716768" duration="1580000" />
+      <workItem from="1713685307423" duration="494000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

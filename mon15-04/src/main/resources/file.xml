@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="
+           http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd
+           http://www.springframework.org/schema/context
+           http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <bean id="happy" class="XML.HappyFortune">
+
+    </bean>
+
+    <bean id="sad" class="XML.SadFortune">
+
+    </bean>
+
+    <bean id="football" class="XML.FootballCoach" init-method="init" destroy-method="destroy" >
+<!--        <constructor-arg  name="fs" ref="myFortune"/>-->
+        <property name="fortunateService" ref="happy"/>
+        <property name="name" value="${name}"/>
+        <property name="email" value="${email}"/>
+    </bean>
+
+<!--    <bean id="swimming" class="org.example.SwimmingCoach"  >-->
+<!--        <constructor-arg  name="fs" ref="sad"/>-->
+<!--&lt;!&ndash;        <property name="fortunateService" ref="myFortune"/>&ndash;&gt;-->
+<!--    </bean>-->
+
+    <context:property-placeholder location="classpath:values.properties"/>
+<!--    <context:property-placeholder  location="classpath:values.properties" />-->
+
+
+</beans>
